@@ -1,5 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
-import AuthForm from '@/components/Forms/AuthForm'
+import AuthForm from '@/components/forms/AuthForm'
 import React from 'react'
 import { createClientForServer } from '@/utils/supabase/server';
 import { redirect } from 'next/navigation';
